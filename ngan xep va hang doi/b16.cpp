@@ -1,0 +1,1 @@
+chọn c2. vì tính chất lát in first out nên sẽ duyệt ngược.

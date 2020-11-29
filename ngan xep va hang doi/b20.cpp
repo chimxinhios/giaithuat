@@ -1,0 +1,1 @@
+chọn c2 vì số 1 là phần tử đầu tiên được thêm vào nên xử lí nó trước.
